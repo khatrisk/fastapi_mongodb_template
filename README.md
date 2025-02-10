@@ -2,8 +2,6 @@
 
 A boilerplate to scaffold an API with a user CRUD functionality, connected to MongoDB.
 
-<small> Disclaimer: This is a very basic implementation and some changes and improvements may be implemented in the days to come. as of Sept 22 2023 </small>
-
 ## TL;DR
 
 If you are in a hurry and know what you're doing:
